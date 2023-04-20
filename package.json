@@ -6,7 +6,7 @@
   "scripts": {
     "start": "web-dev-server --config web-dev-server.config.cjs",
     "build": "rollup -c",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages2 -d dist"
   },
   "keywords": [],
   "author": "",
